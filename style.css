@@ -1,0 +1,62 @@
+/*
+Theme Name: Sac Rag 2013
+Theme URI: http://sacrag.com
+Author: Don Zacharias
+Author URI: http://donzacharias.com
+Description: The 2013 theme for the Sac Rag. Uses bootstrap
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: bootstrap
+Text Domain: twentytwelve
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+   
+.body {
+	font: 12pt/15pt 'Open Sans';
+	background-color: #fefefe;	
+}
+
+.entry-title {
+	font-face: 'Orienta', sans-serif;
+	color: #212121;
+}
+
+#sidebar h2 { font-size: 1.3em }
+
+.wp-caption-text,.entry-meta { font-size: 0.9em; color: #AAA; }
+
+.entry-meta a { color: #AAA; font-weight: bold; }
+
+.navbar-inverse, .navbar-inner {
+	background-color: #2d1d00;
+	background: -moz-linear-gradient(top,  #2d1d00 0%, #444137 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#2d1d00), color-stop(100%,#444137));
+	background: -webkit-linear-gradient(top,  #2d1d00 0%,#444137 100%);
+	background: -o-linear-gradient(top,  #2d1d00 0%,#444137 100%);
+	background: -ms-linear-gradient(top,  #2d1d00 0%,#444137 100%);
+	background: linear-gradient(to bottom,  #2d1d00 0%,#444137 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2d1d00', endColorstr='#444137',GradientType=0 );
+}	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
